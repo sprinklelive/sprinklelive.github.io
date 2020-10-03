@@ -1,5 +1,5 @@
 # Aser OS
-| [首页](index.md) | [AserOS](aseros.md) | [资讯](news.md) | [关于](about.md) |
+| [首页](index.md) | [AseXOS](asexos.md) | [AserOS](aseros.md) | [更多产品](more.md) | [关于](about.md) |
 
 [立即下载最新版本的AserOS](AserOS.zip)
 
