@@ -1,5 +1,5 @@
 # Aser Technology
-| [首页](index.md) | [AserOS](aseros.md) | [资讯](news.md) | [关于](about.md) |
+| [首页](index.md) | [AseXOS](asexos.md) | [更多产品](more.md) | [关于](about.md) |
 
 Aser Technology - 与您,一同进步
 
