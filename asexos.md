@@ -3,4 +3,4 @@
 
  ——终端从未如此简单
  
- [下载测试版AseX OS](AseXpre.zip)
+ [下载支持图形化界面的AseX OS](AseX.zip)
